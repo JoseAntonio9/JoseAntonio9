@@ -4,7 +4,7 @@
 I'm a passionate developer with a strong interest in web development, data science, and open-source contributions. I love learning new technologies and applying them to solve real-world problems.
 
 - 🌱 I’m currently learning **React.js** and **Node.js**
-- 💬 Ask me about **Java**, **Python**, **** and **Machine Learning**
+- 💬 Ask me about **Java**, **Python**, **C** and **Machine Learning**
 - 📫 How to reach me: [Email](antonio.garcia@ciencias.unam.mx) 
 - ⚡ Fun fact: I enjoy playing Pokémon
 
